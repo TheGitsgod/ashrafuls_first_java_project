@@ -1,6 +1,6 @@
 
 						/* 
-  						Requirements:
+  						*Requirements*
   						
  * Create a project to give any name, create a package, and inside the package, create a class, then write a program to print "Hello World."
  * Update the name of the package and class name.
