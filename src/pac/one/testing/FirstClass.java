@@ -35,7 +35,7 @@ public class FirstClass {
 	//•	Write a program to declare all primitive data types of variables and print the values.
 		
 		String lastname = "khan";
-		int age = 15;
+		byte age = 15;
 		float ageinmonth = 180.2f;
 		double ageinweeks = 100.80;
 		boolean myboolean = true;

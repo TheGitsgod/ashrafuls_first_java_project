@@ -8,7 +8,7 @@ public class SecondClass {
 		
 		
 		String hisname = ("Hasbulla");
-		int age = 20;
+		byte age = 20;
 		double height = 3.4d;
 		
 //Printing value 
